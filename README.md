@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunny Shivani</h1>
-<h3 align="center">A Tech Geek</h3>
+<h3 align="center">A Computer Science</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence,JS**
 
