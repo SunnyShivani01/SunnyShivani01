@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sunny Shivani</h1>
-<h3 align="center">A Computer Science</h3>
+<h1 align="center">Hi 👋, I'm Sunny Sagar</h1>
+<h3 align="center">A UX Designer</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence,JS**
+- 🌱 I’m currently pursuing **UX Engineering**
 
 - 📫 How to reach me **sunny.sagar164+github@gmail.com**
 
