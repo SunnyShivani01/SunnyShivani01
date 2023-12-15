@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunny Sagar</h1>
-<h3 align="center">A UX Designer</h3>
+<h3 align="center">A UI/UX Designer</h3>
 
 - 🌱 I’m currently pursuing **UX Engineering**
 
